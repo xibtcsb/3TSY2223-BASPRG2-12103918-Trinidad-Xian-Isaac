@@ -1,0 +1,14 @@
+﻿  assasin.cpp
+D:\school\First Year\TERM 3\BASPRG2\QUIZ3_ARENA_TRINIDAD\QUIZ3_ARENA_TRINIDAD\assasin.cpp(46,8): warning C4552: '*': result of expression not used
+D:\school\First Year\TERM 3\BASPRG2\QUIZ3_ARENA_TRINIDAD\QUIZ3_ARENA_TRINIDAD\assasin.cpp(50,8): warning C4552: '*': result of expression not used
+  mage.cpp
+D:\school\First Year\TERM 3\BASPRG2\QUIZ3_ARENA_TRINIDAD\QUIZ3_ARENA_TRINIDAD\mage.cpp(47,8): warning C4552: '*': result of expression not used
+D:\school\First Year\TERM 3\BASPRG2\QUIZ3_ARENA_TRINIDAD\QUIZ3_ARENA_TRINIDAD\mage.cpp(51,8): warning C4552: '*': result of expression not used
+  Source.cpp
+D:\school\First Year\TERM 3\BASPRG2\QUIZ3_ARENA_TRINIDAD\QUIZ3_ARENA_TRINIDAD\Source.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  enemy.cpp
+  warrior.cpp
+D:\school\First Year\TERM 3\BASPRG2\QUIZ3_ARENA_TRINIDAD\QUIZ3_ARENA_TRINIDAD\warrior.cpp(47,8): warning C4552: '*': result of expression not used
+D:\school\First Year\TERM 3\BASPRG2\QUIZ3_ARENA_TRINIDAD\QUIZ3_ARENA_TRINIDAD\warrior.cpp(51,8): warning C4552: '*': result of expression not used
+  Generating Code...
+  QUIZ3_ARENA_TRINIDAD.vcxproj -> D:\school\First Year\TERM 3\BASPRG2\QUIZ3_ARENA_TRINIDAD\x64\Debug\QUIZ3_ARENA_TRINIDAD.exe
